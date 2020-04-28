@@ -10,4 +10,16 @@
 
 #### 内网穿透
 - [nps-轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)
-- [frp-V-I-C-T-O-R/nps](https://github.com/fatedier/frp)
+- [frp内网穿透](https://github.com/fatedier/frp)
+
+#### ETL工具
+- [Datax](https://github.com/alibaba/DataX)
+- [Kettle](https://github.com/pentaho/pentaho-kettle)
+- [NiFi](https://github.com/apache/nifi)
+- [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
+
+#### Mysql实时同步工具
+- [Maxwell](https://github.com/zendesk/maxwell)
+- [Canal](https://github.com/alibaba/canal)
+- [DataBus](https://github.com/linkedin/databus)
+- [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java)
