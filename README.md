@@ -25,3 +25,6 @@
 - [Canal](https://github.com/alibaba/canal)
 - [DataBus](https://github.com/linkedin/databus)
 - [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java)
+
+#### 量化交易
+- [量化交易列表](https://github.com/V-I-C-T-O-R/ToolList/blob/master/subdir/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93.md)
