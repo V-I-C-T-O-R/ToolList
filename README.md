@@ -31,6 +31,9 @@
 - [DataBus](https://github.com/linkedin/databus)
 - [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java)
 
+#### 数据生成  
+- [Faker-生成你需要的所有假数据](https://github.com/joke2k/faker)
+
 #### 日志分析
 - [goaccess-实时Web日志分析器和交互式查看器](https://github.com/allinurl/goaccess)
 
