@@ -1,6 +1,21 @@
 # ToolList
 
 >> 记录好用的开源工具
+#### ETL工具
+- [Datax](https://github.com/alibaba/DataX)
+- [Kettle](https://github.com/pentaho/pentaho-kettle)
+- [NiFi](https://github.com/apache/nifi)
+- [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
+
+#### 数据库实时同步工具
+- [debezium-Mysql/Oracle/Sqlserver/MongoDB/PostgreSql等CDC工具](https://github.com/debezium/debezium)
+- [SpinalTap-Mysql CDC工具](https://github.com/airbnb/SpinalTap)
+- [Maxwell-Mysql2Json的CDC工具](https://github.com/zendesk/maxwell)
+- [Canal-Mysql CDC工具](https://github.com/alibaba/canal)
+- [Otter-基于Canal的Mysql CDC工具](https://github.com/alibaba/otter)
+- [DataBus-Oracle/Mysql CDC工具](https://github.com/linkedin/databus)
+- [mysql-binlog-connector-java-自定义Mysql CDC工具](https://github.com/shyiko/mysql-binlog-connector-java)
+- [DBLog-通用的数据变更捕获框架-等待开源](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 
 #### 监控运维
 - [JumpServer-全球首款开源的堡垒机](https://github.com/jumpserver/jumpserver)
@@ -18,18 +33,6 @@
 #### 内网穿透
 - [nps-轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)
 - [frp内网穿透](https://github.com/fatedier/frp)
-
-#### ETL工具
-- [Datax](https://github.com/alibaba/DataX)
-- [Kettle](https://github.com/pentaho/pentaho-kettle)
-- [NiFi](https://github.com/apache/nifi)
-- [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
-
-#### Mysql实时同步工具
-- [Maxwell](https://github.com/zendesk/maxwell)
-- [Canal](https://github.com/alibaba/canal)
-- [DataBus](https://github.com/linkedin/databus)
-- [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java)
 
 #### 数据生成  
 - [Faker-生成你需要的所有假数据](https://github.com/joke2k/faker)
