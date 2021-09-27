@@ -19,6 +19,7 @@
 
 #### 监控运维
 - [JumpServer-全球首款开源的堡垒机](https://github.com/jumpserver/jumpserver)
+- [NextTerminal-轻量级堡垒机系统](https://github.com/dushixiang/next-terminal)
 - [wgcloud-高并发监控系统](https://github.com/tianshiyeben/wgcloud)
 - [spug-自动化运维平台](https://github.com/openspug/spug)
 - [OpsManage-自动化运维平台](https://github.com/welliamcao/OpsManage)
