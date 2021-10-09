@@ -6,7 +6,7 @@
 - [Azkaban-工作流依赖调度](https://github.com/azkaban/azkaban)
 - [Airflow-工作流调度平台](https://github.com/apache/airflow)
 - [Schedulis-微众银行基于Azkaban的工作流任务调度系统](https://gitee.com/WeBank/Schedulis)
-- [dolphinscheduler-Apache工作流调度工具](https://dolphinscheduler.apache.org/zh-cn/)
+- [Dolphinscheduler-Apache工作流调度工具](https://dolphinscheduler.apache.org/zh-cn/)
 
 #### ETL工具
 - [Datax](https://github.com/alibaba/DataX)
