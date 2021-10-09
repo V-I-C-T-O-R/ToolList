@@ -30,6 +30,7 @@
 - [Azkaban-工作流依赖调度](https://github.com/azkaban/azkaban)
 - [Schedulis-基于Azkaban的二次开发用户管理](https://github.com/WeBankFinTech/Schedulis)
 - [Airflow-工作流调度平台](https://github.com/apache/airflow)
+- [Schedulis-微众银行基于Azkaban的工作流任务调度系统](https://gitee.com/WeBank/Schedulis)
 
 #### 内网穿透
 - [nps-轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)
