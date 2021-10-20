@@ -8,7 +8,7 @@
 - [Schedulis-微众银行基于Azkaban的工作流任务调度系统](https://gitee.com/WeBank/Schedulis)
 - [Dolphinscheduler-Apache工作流调度工具](https://dolphinscheduler.apache.org/zh-cn/)
 
-#### 调度
+#### 可视化
 - [DataEase-开源的数据可视化分析工具](https://github.com/dataease/dataease)
 - [DataGear-开源免费的数据可视化分析平台](https://github.com/datageartech/datagear)
 - [JimuReport-积木报表](https://github.com/jeecgboot/JimuReport)
