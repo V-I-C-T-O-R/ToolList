@@ -8,11 +8,12 @@
 - [Schedulis-微众银行基于Azkaban的工作流任务调度系统](https://gitee.com/WeBank/Schedulis)
 - [Dolphinscheduler-Apache工作流调度工具](https://dolphinscheduler.apache.org/zh-cn/)
 
-#### ETL工具
-- [Datax](https://github.com/alibaba/DataX)
-- [Kettle](https://github.com/pentaho/pentaho-kettle)
-- [NiFi](https://github.com/apache/nifi)
-- [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
+#### 调度
+- [DataEase-开源的数据可视化分析工具](https://github.com/dataease/dataease)
+- [DataGear-开源免费的数据可视化分析平台](https://github.com/datageartech/datagear)
+- [JimuReport-积木报表](https://github.com/jeecgboot/JimuReport)
+- [Superset-开源BI平台](https://github.com/apache/superset)
+- [CBoard-开源BI平台](https://github.com/TuiQiao/CBoard)
 
 #### 数据库实时同步工具
 - [debezium-Mysql/Oracle/Sqlserver/MongoDB/PostgreSql等CDC工具](https://github.com/debezium/debezium)
@@ -23,6 +24,12 @@
 - [DataBus-Oracle/Mysql CDC工具](https://github.com/linkedin/databus)
 - [mysql-binlog-connector-java-自定义Mysql CDC工具](https://github.com/shyiko/mysql-binlog-connector-java)
 - [DBLog-通用的数据变更捕获框架-等待开源](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
+
+#### ETL工具
+- [Datax](https://github.com/alibaba/DataX)
+- [Kettle](https://github.com/pentaho/pentaho-kettle)
+- [NiFi](https://github.com/apache/nifi)
+- [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
 
 #### 监控运维
 - [JumpServer-全球首款开源的堡垒机](https://github.com/jumpserver/jumpserver)
