@@ -30,6 +30,7 @@
 - [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [NiFi](https://github.com/apache/nifi)
 - [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
+- [Earth-fleet原名为Waterdrop,生产环境的海量数据计算产品](https://github.com/InterestingLab/seatunnel)
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
