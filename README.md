@@ -31,6 +31,9 @@
 - [NiFi](https://github.com/apache/nifi)
 - [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
 
+#### 服务运维
+- [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
+
 #### 监控运维
 - [JumpServer-全球首款开源的堡垒机](https://github.com/jumpserver/jumpserver)
 - [NextTerminal-轻量级堡垒机系统](https://github.com/dushixiang/next-terminal)
