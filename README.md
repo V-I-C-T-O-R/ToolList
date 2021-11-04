@@ -15,7 +15,15 @@
 - [Superset-开源BI平台](https://github.com/apache/superset)
 - [CBoard-开源BI平台](https://github.com/TuiQiao/CBoard)
 
+#### 流式开发
+- [StreamX-StreamX is to make the development of Flink easie](https://github.com/streamxhub/streamx)
+- [Kyuubi-Thrift JDBC/ODBC interface to use Spark or Flink](https://github.com/apache/incubator-kyuubi)
+- [flink-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
+- [flinkStreamSQL-基于开源的flink，对其实时sql进行扩展](https://github.com/DTStack/flinkStreamSQL)
+
 #### 数据库实时同步工具
+- [FlinkX-一个基于Flink的批流统一的数据同步工具](https://github.com/DTStack/flinkx)
+- [flink-cdc-connectors-Change Data Capture (CDC) Connectors for Apache Flink](https://github.com/ververica/flink-cdc-connectors)
 - [debezium-Mysql/Oracle/Sqlserver/MongoDB/PostgreSql等CDC工具](https://github.com/debezium/debezium)
 - [SpinalTap-Mysql CDC工具](https://github.com/airbnb/SpinalTap)
 - [Maxwell-Mysql2Json的CDC工具](https://github.com/zendesk/maxwell)
@@ -26,11 +34,11 @@
 - [DBLog-通用的数据变更捕获框架-等待开源](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 
 #### ETL工具
+- [Exchangis-微众银行基于Datax&Sqoop的数据同步工具](https://github.com/WeBankFinTech/Exchangis)
 - [Datax](https://github.com/alibaba/DataX)
 - [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [NiFi](https://github.com/apache/nifi)
-- [Flume](https://github.com/V-I-C-T-O-R/flume-ng-sql-source)
-- [Earth-fleet原名为Waterdrop,生产环境的海量数据计算产品](https://github.com/InterestingLab/seatunnel)
+- [Earth-fleet原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
