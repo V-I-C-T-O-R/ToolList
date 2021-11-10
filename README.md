@@ -16,7 +16,7 @@
 - [CBoard-开源BI平台](https://github.com/TuiQiao/CBoard)
 
 #### 流式开发
-- [StreamX-StreamX is to make the development of Flink easie](https://github.com/streamxhub/streamx)
+- [StreamX-让Flink 开发更简单,极大降低学习成本和开发门槛](https://github.com/streamxhub/streamx)
 - [Kyuubi-Thrift JDBC/ODBC interface to use Spark or Flink](https://github.com/apache/incubator-kyuubi)
 - [flink-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
 - [flinkStreamSQL-基于开源的flink，对其实时sql进行扩展](https://github.com/DTStack/flinkStreamSQL)
@@ -38,7 +38,7 @@
 - [Datax](https://github.com/alibaba/DataX)
 - [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [NiFi](https://github.com/apache/nifi)
-- [Earth-fleet原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
+- [seatunnel原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
