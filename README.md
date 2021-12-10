@@ -10,6 +10,7 @@
 
 #### 数据可视化
 - [DataEase-开源的数据可视化分析工具](https://github.com/dataease/dataease)
+- [datart-新一代数据可视化开放平台](https://github.com/running-elephant/datart)
 - [DataGear-开源免费的数据可视化分析平台](https://github.com/datageartech/datagear)
 - [JimuReport-积木报表](https://github.com/jeecgboot/JimuReport)
 - [Superset-开源BI平台](https://github.com/apache/superset)
