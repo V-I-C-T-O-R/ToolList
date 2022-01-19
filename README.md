@@ -1,6 +1,10 @@
 # ToolList
 
 >> 记录好用的开源工具
+#### 元数据管理
+- [Amundsen](https://github.com/amundsen-io/amundsen)
+- [Datahub](https://github.com/linkedin/datahub)
+- [vue-metadata国人开源](https://github.com/zbwfisher1/vue-metadata)
 
 #### 调度
 - [Azkaban-工作流依赖调度](https://github.com/azkaban/azkaban)
