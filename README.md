@@ -4,7 +4,8 @@
 #### 元数据管理
 - [Amundsen](https://github.com/amundsen-io/amundsen)
 - [Datahub](https://github.com/linkedin/datahub)
-- [vue-metadata国人开源](https://github.com/zbwfisher1/vue-metadata)
+- [SchemaCrawler-表结构可视化工具](https://github.com/schemacrawler/SchemaCrawler)
+- [querybook-combining collocated table metadata](https://github.com/pinterest/querybook)
 
 #### 调度
 - [Azkaban-工作流依赖调度](https://github.com/azkaban/azkaban)
