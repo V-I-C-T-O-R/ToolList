@@ -21,6 +21,7 @@
 - [Superset-开源BI平台](https://github.com/apache/superset)
 - [CBoard-开源BI平台](https://github.com/TuiQiao/CBoard)
 - [Zeppelin-一个让交互式数据分析变得可行的基于网页的开源框架](https://github.com/apache/zeppelin)
+- [metabase](https://github.com/metabase/metabase)
 
 #### 流式开发
 - [StreamX-让Flink 开发更简单,极大降低学习成本和开发门槛](https://github.com/streamxhub/streamx)
