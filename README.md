@@ -51,6 +51,7 @@
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
+- [onedev-一站式CI/CD DevOps 工具](https://github.com/theonedev/onedev)
 
 #### 监控运维
 - [JumpServer-全球首款开源的堡垒机](https://github.com/jumpserver/jumpserver)
