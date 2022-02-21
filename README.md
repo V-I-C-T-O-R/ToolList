@@ -1,6 +1,9 @@
 # ToolList
 
 >> 记录好用的开源工具
+#### 数据治理
+- [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
+
 #### 元数据管理
 - [Amundsen](https://github.com/amundsen-io/amundsen)
 - [Datahub](https://github.com/linkedin/datahub)
