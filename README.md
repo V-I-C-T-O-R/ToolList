@@ -4,6 +4,10 @@
 #### 数据治理
 - [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
 
+#### 代码版本管理
+- [svnWebUI-svn服务端web图形化管理工具](https://github.com/cym1102/svnWebUI)
+- [Svnkit-远程SVN在线管理系统](https://github.com/hy-wux/DataService-Svnkit)
+
 #### 元数据管理
 - [Amundsen](https://github.com/amundsen-io/amundsen)
 - [Datahub](https://github.com/linkedin/datahub)
@@ -64,6 +68,9 @@
 - [OpsManage-自动化运维平台](https://github.com/welliamcao/OpsManage)
 - [yala-主机监控管理功能](https://github.com/xl0shk/yala)
 - [opendevops-云管理平台](https://github.com/opendevops-cn/opendevops)
+
+#### 服务工具
+- [kudu-plus-是可视化管理kudu的工具](https://github.com/Xchunguang/kudu-plus)
 
 #### 内网穿透
 - [nps-轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)
