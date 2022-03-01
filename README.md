@@ -1,6 +1,9 @@
 # ToolList
 
 >> 记录好用的开源工具
+#### 算法
+- [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
+
 #### 数据治理
 - [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
 
@@ -36,6 +39,9 @@
 - [Kyuubi-Thrift JDBC/ODBC interface to use Spark or Flink](https://github.com/apache/incubator-kyuubi)
 - [flink-streaming-platform-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
 - [flinkStreamSQL-基于开源的flink，对其实时sql进行扩展](https://github.com/DTStack/flinkStreamSQL)
+
+#### 大数据计算框架周边
+- [Kyuubi-建立在Apache Spark之上高性能的通用JDBC和SQL执行引擎](https://github.com/apache/incubator-kyuubi)
 
 #### 数据库实时同步工具
 - [FlinkX-一个基于Flink的批流统一的数据同步工具](https://github.com/DTStack/flinkx)
