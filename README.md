@@ -39,6 +39,7 @@
 - [Kyuubi-Thrift JDBC/ODBC interface to use Spark or Flink](https://github.com/apache/incubator-kyuubi)
 - [flink-streaming-platform-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
 - [flinkStreamSQL-基于开源的flink，对其实时sql进行扩展](https://github.com/DTStack/flinkStreamSQL)
+- [Dinky-一站式开发运维 FlinkSQL](https://gitee.com/DataLinkDC/Dinky)
 
 #### 大数据计算框架周边
 - [Kyuubi-建立在Apache Spark之上高性能的通用JDBC和SQL执行引擎](https://github.com/apache/incubator-kyuubi)
