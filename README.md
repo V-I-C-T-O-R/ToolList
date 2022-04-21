@@ -80,6 +80,7 @@
 - [OpsManage-自动化运维平台](https://github.com/welliamcao/OpsManage)
 - [yala-主机监控管理功能](https://github.com/xl0shk/yala)
 - [opendevops-云管理平台](https://github.com/opendevops-cn/opendevops)
+- [HertzBeat-API、PING、端口、数据库、操作系统等监控](https://github.com/dromara/hertzbeat)
 
 #### 服务工具
 - [kudu-plus-是可视化管理kudu的工具](https://github.com/Xchunguang/kudu-plus)
