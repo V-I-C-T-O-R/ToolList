@@ -81,6 +81,7 @@
 - [yala-主机监控管理功能](https://github.com/xl0shk/yala)
 - [opendevops-云管理平台](https://github.com/opendevops-cn/opendevops)
 - [HertzBeat-API、PING、端口、数据库、操作系统等监控](https://github.com/dromara/hertzbeat)
+- [ChengYing（承影）作为一站式全自动化全生命周期运维管家](https://github.com/DTStack/chengying)
 
 #### 服务工具
 - [kudu-plus-是可视化管理kudu的工具](https://github.com/Xchunguang/kudu-plus)
