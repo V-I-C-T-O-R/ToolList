@@ -85,6 +85,7 @@
 
 #### 服务工具
 - [kudu-plus-是可视化管理kudu的工具](https://github.com/Xchunguang/kudu-plus)
+- [zkcopy-Zookeeper自动化数据同步迁移工具](https://github.com/ksprojects/zkcopy)
 
 #### 内网穿透
 - [nps-轻量级、高性能、功能强大的内网穿透代理服务器](https://github.com/ehang-io/nps)
