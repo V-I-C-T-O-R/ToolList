@@ -58,7 +58,7 @@
 - [Otter-基于Canal的Mysql CDC工具](https://github.com/alibaba/otter)
 - [DataBus-Oracle/Mysql CDC工具](https://github.com/linkedin/databus)
 - [mysql-binlog-connector-java-自定义Mysql CDC工具](https://github.com/shyiko/mysql-binlog-connector-java)
-- [Yugong-阿里巴巴去Oracle数据迁移同步工具全量+增量,目标支持MySQL/DRDS,本版本支持 MSSQL/MySQL作为源数据库(https://github.com/V-I-C-T-O-R/yugong)
+- [Yugong-阿里巴巴去Oracle数据迁移同步工具全量+增量,目标支持MySQL/DRDS,本版本支持 MSSQL/MySQL作为源数据库](https://github.com/V-I-C-T-O-R/yugong)
 - [TIS-基于批(DataX)流(Flink-CDC)一体数据中台](https://github.com/qlangtech/tis)
 
 #### ETL工具
