@@ -67,6 +67,7 @@
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
+- [KnowStreaming-一站式Apache Kafka管控平台](https://github.com/didi/KnowStreaming)
 - [onedev-一站式CI/CD DevOps 工具](https://github.com/theonedev/onedev)
 
 #### 监控运维
