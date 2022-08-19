@@ -5,6 +5,9 @@
 #### 算法
 - [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
 
+#### 数据建模
+- [PDManer-关系数据库模型建模工具](https://www.oschina.net/p/pdmaner)
+
 #### 数据治理
 - [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
 
