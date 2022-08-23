@@ -14,18 +14,17 @@
 #### 数据建模
 - [PDManer-关系数据库模型建模工具](https://www.oschina.net/p/pdmaner)
 
-#### 数据治理
-- [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
-
 #### 代码版本管理
 - [svnWebUI-svn服务端web图形化管理工具](https://github.com/cym1102/svnWebUI)
 - [Svnkit-远程SVN在线管理系统](https://github.com/hy-wux/DataService-Svnkit)
 
-#### 元数据管理
-- [Amundsen](https://github.com/amundsen-io/amundsen)
-- [Datahub](https://github.com/linkedin/datahub)
+#### 元数据管理 & 数据治理
+- [Amundsen-数据治理框架](https://github.com/amundsen-io/amundsen)
+- [Marquez-开源的元数据服务](https://github.com/MarquezProject/marquez)
+- [Datahub-一站式元数据治理平台](https://github.com/linkedin/datahub)
 - [SchemaCrawler-表结构可视化工具](https://github.com/schemacrawler/SchemaCrawler)
 - [querybook-combining collocated table metadata](https://github.com/pinterest/querybook)
+- [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
 
 #### 调度
 - [Azkaban-工作流依赖调度](https://github.com/azkaban/azkaban)
