@@ -73,6 +73,7 @@
 #### ETL工具
 - [Exchangis-微众银行基于Datax&Sqoop的数据同步工具](https://github.com/WeBankFinTech/Exchangis)
 - [Datax](https://github.com/alibaba/DataX)
+- [Addax-Datax的优化二次开发版本](https://github.com/wgzhao/Addax)
 - [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [NiFi](https://github.com/apache/nifi)
 - [seatunnel原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
