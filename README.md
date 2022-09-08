@@ -12,6 +12,10 @@
 
 记录好用的开源工具
 -----------------
+#### 股票工具
+- 股票基金助手-Chrome版
+- VSCode-韭菜盒子
+
 #### 算法
 - [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
 
