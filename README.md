@@ -81,6 +81,7 @@
 - [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [NiFi](https://github.com/apache/nifi)
 - [seatunnel原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
+- [基于web版kettle开发的一套分布式综合调度](https://github.com/JoeyBling/webkettle)
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
