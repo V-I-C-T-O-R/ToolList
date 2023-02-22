@@ -34,11 +34,16 @@
 - [querybook-combining collocated table metadata](https://github.com/pinterest/querybook)
 - [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
 
-#### 调度
-- [Azkaban-工作流依赖调度](https://github.com/azkaban/azkaban)
-- [Airflow-工作流调度平台](https://github.com/apache/airflow)
+#### 分布式调度
+- [Taier是一个开源的分布式DAG调度系统，专注不同任务的提交和调度](https://github.com/DTStack/Taier)
 - [Schedulis-微众银行基于Azkaban的工作流任务调度系统](https://gitee.com/WeBank/Schedulis)
 - [Dolphinscheduler-Apache工作流调度工具](https://dolphinscheduler.apache.org/zh-cn/)
+
+#### 流式开发平台
+- [StreamPark-让Flink 开发更简单,极大降低学习成本和开发门槛](https://github.com/apache/incubator-streampark)
+- [Dinky-一站式开发运维 FlinkSQL](https://gitee.com/DataLinkDC/Dinky)
+- [flink-streaming-platform-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
+- [TIS基于批(DataX)流(Flink-CDC、Chunjun)一体数据中台](https://github.com/qlangtech/tis)
 
 #### 数据可视化
 - [DataEase-开源的数据可视化分析工具](https://github.com/dataease/dataease)
@@ -51,18 +56,14 @@
 - [metabase](https://github.com/metabase/metabase)
 - [redash](https://github.com/getredash/redash)
 
-#### 流式开发
-- [StreamX-让Flink 开发更简单,极大降低学习成本和开发门槛](https://github.com/streamxhub/streamx)
+#### 流式中间件
 - [Kyuubi-Thrift JDBC/ODBC interface to use Spark or Flink](https://github.com/apache/incubator-kyuubi)
-- [flink-streaming-platform-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
-- [flinkStreamSQL-基于开源的flink，对其实时sql进行扩展](https://github.com/DTStack/flinkStreamSQL)
-- [Dinky-一站式开发运维 FlinkSQL](https://gitee.com/DataLinkDC/Dinky)
 
 #### 大数据计算框架周边
 - [Kyuubi-建立在Apache Spark之上高性能的通用JDBC和SQL执行引擎](https://github.com/apache/incubator-kyuubi)
 
 #### 数据库实时同步工具
-- [FlinkX-一个基于Flink的批流统一的数据同步工具](https://github.com/DTStack/flinkx)
+- [chunjun-一个基于Flink的批流统一的数据同步工具](https://github.com/DTStack/chunjun)
 - [flink-cdc-connectors-Change Data Capture (CDC) Connectors for Apache Flink](https://github.com/ververica/flink-cdc-connectors)
 - [debezium-Mysql/Oracle/Sqlserver/MongoDB/PostgreSql等CDC工具](https://github.com/debezium/debezium)
 - [SpinalTap-Mysql CDC工具](https://github.com/airbnb/SpinalTap)
@@ -75,12 +76,12 @@
 - [TIS-基于批(DataX)流(Flink-CDC)一体数据中台](https://github.com/qlangtech/tis)
 
 #### ETL工具
+- [seatunnel原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
 - [Exchangis-微众银行基于Datax&Sqoop的数据同步工具](https://github.com/WeBankFinTech/Exchangis)
 - [Datax](https://github.com/alibaba/DataX)
 - [Addax-Datax的优化二次开发版本](https://github.com/wgzhao/Addax)
 - [Kettle](https://github.com/pentaho/pentaho-kettle)
 - [NiFi](https://github.com/apache/nifi)
-- [seatunnel原名为Waterdrop,基于Spark or Flink的海量数据处理产品](https://github.com/InterestingLab/seatunnel)
 - [基于web版kettle开发的一套分布式综合调度](https://github.com/JoeyBling/webkettle)
 
 #### 服务运维
