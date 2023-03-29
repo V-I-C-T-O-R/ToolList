@@ -111,6 +111,7 @@
 #### 数据工具  
 - [Faker-生成你需要的所有假数据](https://github.com/joke2k/faker)
 - [异构数据库数据与结构同步工具](https://gitee.com/inrgihc/dbswitch)
+- [sql转换工具，sql翻译，sql格式化，支持oracle转mysql](https://github.com/Isaac315/sql-translator)
 
 #### 代码混淆
 - [obfuscator-Java代码混淆](https://github.com/superblaubeere27/obfuscator)
