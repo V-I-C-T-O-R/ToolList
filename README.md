@@ -116,6 +116,10 @@
 #### 代码混淆
 - [obfuscator-Java代码混淆](https://github.com/superblaubeere27/obfuscator)
 
+#### Java JVM
+- [jvmm-虚拟机监控的工具](https://github.com/tzfun/jvmm)
+- [Arthas-Java诊断利器](https://github.com/alibaba/arthas)
+
 #### 日志分析
 - [goaccess-实时Web日志分析器和交互式查看器](https://github.com/allinurl/goaccess)
 
