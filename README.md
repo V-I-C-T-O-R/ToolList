@@ -22,6 +22,9 @@
 #### 数据建模
 - [PDManer-关系数据库模型建模工具](https://www.oschina.net/p/pdmaner)
 
+#### 云平台
+- [CloudEon是一款基于Kubernetes的云原生大数据平台](https://github.com/dromara/CloudEon)
+
 #### 代码版本管理
 - [svnWebUI-svn服务端web图形化管理工具](https://github.com/cym1102/svnWebUI)
 - [Svnkit-远程SVN在线管理系统](https://github.com/hy-wux/DataService-Svnkit)
