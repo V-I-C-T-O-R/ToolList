@@ -16,6 +16,11 @@
 - 股票基金助手-Chrome版
 - VSCode-韭菜盒子
 
+#### shell客户端
+- mRemoteNG
+- MobaXterm
+- Tabby（原名 Terminus）
+
 #### 算法
 - [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
 
