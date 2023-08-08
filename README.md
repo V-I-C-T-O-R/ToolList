@@ -6,9 +6,10 @@
 -----------------
 - [大数据工具导航](https://bigdata.djbook.top/)
 
-架构图
+架构
 -----------------
 - [实时湖仓一体](https://github.com/V-I-C-T-O-R/ToolList/blob/master/pic/实时湖仓一体架构.webp)
+- [大数据生态方案](https://github.com/alldatacenter/alldata)
 
 记录好用的开源工具
 -----------------
