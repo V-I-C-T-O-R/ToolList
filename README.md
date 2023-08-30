@@ -125,6 +125,10 @@
 #### 代码混淆
 - [obfuscator-Java代码混淆](https://github.com/superblaubeere27/obfuscator)
 
+#### SQL审计
+- [SQL 审核查询平台](https://github.com/hhyo/Archery)
+- [简单, 高效的MYSQL 审计平台](https://github.com/cookieY/Yearning)
+
 #### Java JVM
 - [jvmm-虚拟机监控的工具](https://github.com/tzfun/jvmm)
 - [Arthas-Java诊断利器](https://github.com/alibaba/arthas)
