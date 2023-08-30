@@ -126,8 +126,8 @@
 - [obfuscator-Java代码混淆](https://github.com/superblaubeere27/obfuscator)
 
 #### SQL审计
-- [SQL 审核查询平台](https://github.com/hhyo/Archery)
-- [简单, 高效的MYSQL 审计平台](https://github.com/cookieY/Yearning)
+- [Archery-SQL审核查询平台](https://github.com/hhyo/Archery)
+- [Yearning-简单、高效的MYSQL审计平台](https://github.com/cookieY/Yearning)
 
 #### Java JVM
 - [jvmm-虚拟机监控的工具](https://github.com/tzfun/jvmm)
