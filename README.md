@@ -6,6 +6,11 @@
 -----------------
 - [大数据工具导航](https://bigdata.djbook.top/)
 
+好用的效率工具
+-----------------
+- 好用便签-云同步备忘录、事件提醒
+- Google keep-简单、舒适、科学的备忘录工具（只能科学使用）
+
 架构
 -----------------
 - [实时湖仓一体](https://github.com/V-I-C-T-O-R/ToolList/blob/master/pic/实时湖仓一体架构.webp)
