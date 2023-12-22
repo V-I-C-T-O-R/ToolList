@@ -42,11 +42,12 @@
 
 #### 元数据管理 & 数据治理
 - [Amundsen-数据治理框架](https://github.com/amundsen-io/amundsen)
-- [Marquez-开源的元数据服务](https://github.com/MarquezProject/marquez)
 - [Datahub-一站式元数据治理平台](https://github.com/linkedin/datahub)
 - [SchemaCrawler-表结构可视化工具](https://github.com/schemacrawler/SchemaCrawler)
 - [querybook-combining collocated table metadata](https://github.com/pinterest/querybook)
 - [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
+- [Magda是一个轻量、简单的数据目录管理平台，提供数据编目、增强、搜索、跟踪和排序等功能](https://github.com/magda-io/magda)
+- [Marquez-数据资产的可视化界面美观，操作细节设计比较棒](https://github.com/MarquezProject/marquez)
 
 #### 分布式调度
 - [Taier是一个开源的分布式DAG调度系统，专注不同任务的提交和调度](https://github.com/DTStack/Taier)
