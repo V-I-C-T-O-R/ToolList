@@ -49,7 +49,7 @@
 - [Magda是一个轻量、简单的数据目录管理平台，提供数据编目、增强、搜索、跟踪和排序等功能](https://github.com/magda-io/magda)
 - [Databasir简单易用的数据库元数据管理平台、导出文档](https://github.com/vran-dev/databasir)
 - [Datavines是一站式开源数据可观测性平台，提供元数据管理、数据概览报告](https://github.com/datavane/datavines)
-- [zyplayer-doc数据库元数据字典查询、修改](https://gitee.com/dromara/zyplayer-doc)
+- [zyplayer-doc 数据库元数据字典查询、修改](https://gitee.com/dromara/zyplayer-doc)
 
 #### 分布式调度
 - [Taier是一个开源的分布式DAG调度系统，专注不同任务的提交和调度](https://github.com/DTStack/Taier)
