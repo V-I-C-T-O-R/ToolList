@@ -33,6 +33,9 @@
 - [Langchain-Chatchat（原Langchain-ChatGLM）：基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答](https://github.com/chatchat-space/Langchain-Chatchat)
 - [LangChain-ChatGLM-Webui：基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui)
 
+#### AI Agent框架
+- [AgentScope是一个阿里巴巴开发的多智能体开发平台](https://github.com/modelscope/agentscope)
+
 #### 算法
 - [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
 
