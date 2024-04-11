@@ -22,10 +22,10 @@
 - 股票基金助手-Chrome版
 - VSCode-韭菜盒子
 
-#### shell客户端
+#### Shell客户端
 - mRemoteNG
-- MobaXterm
-- Tabby（原名 Terminus）
+- MobaXterm（推荐）
+- Tabby（原名Terminus）
 
 #### 开源LLM项目应用
 - [QAnything：致力于支持任意格式文件或数据库的本地知识库问答系统](https://github.com/netease-youdao/QAnything)
