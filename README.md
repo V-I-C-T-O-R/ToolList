@@ -112,6 +112,7 @@
 - [基于web版kettle开发的一套分布式综合调度](https://github.com/JoeyBling/webkettle)
 - [InLong(应龙)-一站式、全场景的海量数据集成框架](https://github.com/apache/inlong)
 - [BitSail-字节跳动开源的基于分布式架构的高性能数据集成引擎](https://github.com/bytedance/bitsail)
+- [Airbyte-数据同步工具](https://github.com/airbytehq/airbyte)
 
 #### 服务运维
 - [LogiKM-Kafka集群指标监控与运维管控平台](https://github.com/didi/LogiKM)
