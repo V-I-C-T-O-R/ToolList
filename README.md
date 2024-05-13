@@ -38,7 +38,7 @@
 - [AgentScope是一个阿里巴巴开发的多智能体开发平台](https://github.com/modelscope/agentscope)
 
 #### AI工具
-- [Reader AI是一个能够将任何网址转换成对大型语言模型（LLM）友好的输入格式的工具](https://github.com/jina-ai/reader)
+- [Reader AI是一个能够将任何网址转换成对大型语言模型（LLM）友好输入格式的工具](https://github.com/jina-ai/reader)
 
 #### 算法
 - [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
