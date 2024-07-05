@@ -18,6 +18,19 @@
 
 记录好用的开源工具
 -----------------
+#### AI RAG
+- [graphrag-微软开源的新型基于图的检索增强生成 (RAG)](https://github.com/microsoft/graphrag)
+
+#### AI 框架
+- [AgentScope是一个阿里巴巴开发的多智能体开发平台](https://github.com/modelscope/agentscope)
+- [Ollama-一个专为在本地环境中运行和定制大型语言模型而设计的工具](https://github.com/ollama/ollama)
+- [FastChat-一个用于训练、部署和评估基于大型语言模型的聊天机器人的开放平台](https://github.com/lm-sys/FastChat)
+- [Llama.cpp-基于 C/C++ 实现的 LLaMa 英文大模型接口，可以支持用户在CPU机器上完成开源大模型的部署和使用](https://github.com/ggerganov/llama.cpp)
+- [Dify-一个开源的 LLM 应用开发平台](https://github.com/langgenius/dify)
+
+#### AI工具
+- [Reader AI是一个能够将任何网址转换成对大型语言模型（LLM）友好输入格式的工具](https://github.com/jina-ai/reader)
+
 #### 股票工具
 - 股票基金助手-Chrome版
 - VSCode-韭菜盒子
@@ -33,12 +46,6 @@
 - [Langchain-Chatchat（原Langchain-ChatGLM）：基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答](https://github.com/chatchat-space/Langchain-Chatchat)
 - [LangChain-ChatGLM-Webui：基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui)
 - [casibase-AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database](https://github.com/casibase/casibase)
-
-#### AI Agent框架
-- [AgentScope是一个阿里巴巴开发的多智能体开发平台](https://github.com/modelscope/agentscope)
-
-#### AI工具
-- [Reader AI是一个能够将任何网址转换成对大型语言模型（LLM）友好输入格式的工具](https://github.com/jina-ai/reader)
 
 #### 算法
 - [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
