@@ -20,6 +20,7 @@
 -----------------
 #### AI RAG
 - [graphrag-微软开源的新型基于图的检索增强生成 (RAG)](https://github.com/microsoft/graphrag)
+- [OneKE-中英双语大模型知识抽取框架](https://github.com/zjunlp/DeepKE/blob/main/example/llm/OneKE.md)
 
 #### AI 框架
 - [AgentScope是一个阿里巴巴开发的多智能体开发平台](https://github.com/modelscope/agentscope)
