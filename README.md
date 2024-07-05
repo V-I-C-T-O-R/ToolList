@@ -10,6 +10,7 @@
 -----------------
 - 好用便签-云同步备忘录、事件提醒
 - Google keep-简单、舒适、科学的备忘录工具（只能科学使用）
+- [Github二次身份验证器](https://chromewebstore.google.com/detail/%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8/bhghoamapcdpbohphigoooaddinpkbai?hl=zh-CN)
 
 架构
 -----------------
