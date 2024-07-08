@@ -32,6 +32,8 @@
 
 #### AI工具
 - [Reader AI是一个能够将任何网址转换成对大型语言模型（LLM）友好输入格式的工具](https://github.com/jina-ai/reader)
+- [tika-从一千多种不同的文件类型中检测并提取元数据和文本](https://github.com/apache/tika)
+- [omniparse- 摄取、解析和优化从文档到多媒体的任何数据格式以增强与AI框架的兼容性](https://github.com/adithya-s-k/omniparse?tab=readme-ov-file#api-endpoints)
 
 #### 股票工具
 - 股票基金助手-Chrome版
