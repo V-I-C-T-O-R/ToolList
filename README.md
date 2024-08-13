@@ -40,6 +40,7 @@
 - [EchoMimic-通过融合音频和面部标志点，可生成更符合真实面部运动和表情变化的视频](https://github.com/BadToBest/EchoMimic)
 - [MuseV-腾讯音乐天琴实验室开发的一款专门用于虚拟人口型生成的模型，结合MuseTalk和MusePose，能够依据输入的音频来修改未见过的面部图像，使面部动作与音频高度同步，以达到口型与声音匹配的效果](https://github.com/TMElyralab/MuseV)
 - [Hallo-Hallo是由复旦大学、百度公司、苏黎世联邦理工学院和南京大学的研究人员共同提出的一个AI对口型肖像图像动画技术，可基于语音音频输入来驱动生成逼真且动态的肖像图像视频](https://github.com/fudan-generative-vision/hallo)
+- [Deep-Live-Cam实时直播换脸](https://github.com/hacksider/Deep-Live-Cam)
 
 #### 股票工具
 - 股票基金助手-Chrome版
