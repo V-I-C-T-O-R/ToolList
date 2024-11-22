@@ -58,8 +58,11 @@
 - [LangChain-ChatGLM-Webui：基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui)
 - [casibase-AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database](https://github.com/casibase/casibase)
 
-#### 算法
-- [Alink-基于Flink的通用算法平台](https://github.com/alibaba/Alink)
+#### 数据湖
+- [LakeSoul-流批一体数据湖计算框架](https://github.com/lakesoul-io/LakeSoul)
+- [Hudi](https://github.com/apache/hudi)
+- [Iceberg](https://github.com/apache/iceberg)
+- [Paimon](https://github.com/apache/paimon)
 
 #### 数据建模
 - [PDManer-关系数据库模型建模工具](https://www.oschina.net/p/pdmaner)
