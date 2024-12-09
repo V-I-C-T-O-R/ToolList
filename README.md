@@ -76,14 +76,11 @@
 #### 元数据管理 & 数据治理
 - [Amundsen-数据治理框架](https://github.com/amundsen-io/amundsen)
 - [Datahub-一站式元数据治理平台](https://github.com/linkedin/datahub)
-- [SchemaCrawler-表结构可视化工具](https://github.com/schemacrawler/SchemaCrawler)
-- [querybook-combining collocated table metadata](https://github.com/pinterest/querybook)
 - [sqllineage-python解析sql血缘追溯工具](https://github.com/reata/sqllineage)
 - [Magda是一个轻量、简单的数据目录管理平台，提供数据编目、增强、搜索、跟踪和排序等功能](https://github.com/magda-io/magda)
-- [Databasir简单易用的数据库元数据管理平台、导出文档](https://github.com/vran-dev/databasir)
-- [Datavines是一站式开源数据可观测性平台，提供元数据管理、数据概览报告](https://github.com/datavane/datavines)
 - [zyplayer-doc 数据库元数据字典查询、修改](https://gitee.com/dromara/zyplayer-doc)
 - [superior-sql-parser-血缘解析工具](https://github.com/melin/superior-sql-parser)
+- [OpenMetadata是一个开源的端到端元数据管理平台](https://github.com/open-metadata/OpenMetadata)
 
 #### 分布式调度
 - [Taier是一个开源的分布式DAG调度系统，专注不同任务的提交和调度](https://github.com/DTStack/Taier)
