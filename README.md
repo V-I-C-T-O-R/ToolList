@@ -63,6 +63,9 @@
 - [Iceberg](https://github.com/apache/iceberg)
 - [Paimon](https://github.com/apache/paimon)
 
+#### 流存储
+- [Fluss-实时流存储](https://github.com/alibaba/fluss)
+
 #### 数据建模
 - [PDManer-关系数据库模型建模工具](https://www.oschina.net/p/pdmaner)
 
