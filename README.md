@@ -44,6 +44,7 @@
 #### 股票工具
 - 股票基金助手-Chrome版
 - VSCode-韭菜盒子
+- [go-stock自选股票行情获取，AI赋能股票分析](https://github.com/ArvinLovegood/go-stock)
 
 #### Shell客户端
 - mRemoteNG
