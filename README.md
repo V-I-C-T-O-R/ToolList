@@ -93,9 +93,7 @@
 
 #### 流式开发平台
 - [StreamPark-让Flink 开发更简单,极大降低学习成本和开发门槛](https://github.com/apache/incubator-streampark)
-- [Dinky-一站式开发运维 FlinkSQL](https://gitee.com/DataLinkDC/Dinky)
-- [flink-streaming-platform-web基于flink-sql的实时流计算web平台](https://github.com/zhp8341/flink-streaming-platform-web)
-- [TIS基于批(DataX)流(Flink-CDC、Chunjun)一体数据中台](https://github.com/qlangtech/tis)
+- [Dinky-开源实时计算平台](https://github.com/DataLinkDC/Dinky)
 
 #### 数据可视化
 - [DataEase-开源的数据可视化分析工具](https://github.com/dataease/dataease)
