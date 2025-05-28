@@ -85,6 +85,8 @@
 - [zyplayer-doc 数据库元数据字典查询、修改](https://gitee.com/dromara/zyplayer-doc)
 - [superior-sql-parser-血缘解析工具](https://github.com/melin/superior-sql-parser)
 - [OpenMetadata是一个开源的端到端元数据管理平台](https://github.com/open-metadata/OpenMetadata)
+- [unitycatalog数据湖元数据管理](https://github.com/unitycatalog/unitycatalog)
+- [polaris是Iceberg开源、功能齐全的目录](https://github.com/apache/polaris)
 
 #### 分布式调度
 - [Taier是一个开源的分布式DAG调度系统，专注不同任务的提交和调度](https://github.com/DTStack/Taier)
