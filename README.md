@@ -9,7 +9,8 @@
 好用的效率工具
 -----------------
 - 好用便签-云同步备忘录、事件提醒
-- [Github-身份验证器](https://chromewebstore.google.com/detail/%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8/bhghoamapcdpbohphigoooaddinpkbai?hl=zh-CN)
+- [Chrome插件-好用的Github身份验证器](https://chromewebstore.google.com/detail/%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%99%A8/bhghoamapcdpbohphigoooaddinpkbai?hl=zh-CN)
+- [Chrome插件-ZeroOmega代理工具](https://github.com/sn-o-w/ZeroOmega?tab=readme-ov-file)
 - [WizTree-Windows好用的磁盘分析工具](https://www.diskanalyzer.com/download)
 
 架构
